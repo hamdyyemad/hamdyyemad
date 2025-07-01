@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hamdy Emad and I'm a frontend developer from Egypt 🇪🇬</h2>
+<h2 align="left">Hi 👋! My name is Hamdy Emad and I'm a full stack web developer from Egypt 🇪🇬</h2>
 
 ###
 
