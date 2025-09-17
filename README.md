@@ -3,9 +3,9 @@
 ###
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hamdyyemad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamdyyemad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdyyemad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=hamdyyemad&theme=darkhub&no-frame=true)<br/>
+![](https://streak-stats.demolab.com?user=hamdyyemad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=hamdyyemad&bg_color=0d1117&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hamdyyemad&icon=0&color=0)](https://visitcount.itsvg.in)
